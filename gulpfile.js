@@ -7,5 +7,5 @@ require('laravel-elixir-webpack-official');
 elixir(function(mix) {
   mix.sass('home.sass')
      .materialize()
-     .webpack('app.js');
+     .webpack('home.js');
 });
