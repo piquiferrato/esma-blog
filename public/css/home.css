@@ -1,14 +1,11 @@
 .container {
-  padding-top: 4em;
+  margin: 0;
+  padding-top: 2erm;
 }
 
-#logo-fullscreen {
+
+#logo {
   padding-left: 0.8em;
-  font-size: 2.5em;
-}
-
-#logo-mobile {
-  text-align: center;
   font-size: 2.5em;
 }
 
