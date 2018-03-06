@@ -5,7 +5,7 @@
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
      <link rel="stylesheet" type="text/css" href="css/home.css">
      <!-- Compiled and minified CSS -->
-     <script type="text/javascript" src="./js/app.js"></script>
+
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -31,40 +31,7 @@
            </div>
          </nav>
      </header>
-<!--slider-->
 
-<div class="slider">
-  <ul class="slides">
-    <li>
-      <img src="./images/img-1.jpg"> <!-- random image -->
-      <div class="caption center-align">
-        <h3>This is our big Tagline!</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-    </li>
-    <li>
-      <img src="./images/img-1.jpg"> <!-- random image -->
-      <div class="caption left-align">
-        <h3>Left Aligned Caption</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-    </li>
-    <li>
-      <img src="./images/img-1.jpg"> <!-- random image -->
-      <div class="caption right-align">
-        <h3>Right Aligned Caption</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-    </li>
-    <li>
-      <img src="https://lorempixel.com/580/250/nature/4"> <!-- random image -->
-      <div class="caption center-align">
-        <h3>This is our big Tagline!</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-    </li>
-  </ul>
-</div>
 
 <!--cards section-->
 <div class="container">
@@ -185,26 +152,6 @@
 
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
      <!-- Compiled and minified JavaScript -->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>

@@ -13,5 +13,5 @@
 
 
 Route::get('/home', 'HomeController@home');
-
 Route::get('/', 'HomeController@welcome');
+Route::get('/signIn', 'UserController@signIn');
