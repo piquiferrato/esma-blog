@@ -36,8 +36,8 @@
 </div>
 
 <!--cards section-->
-<div class="container">
-  <h3 class="center separator">Tal vez te interese...</h3>
+<div class="container separator">
+  <h3 class="center">Tal vez te interese...</h3>
 </div>
 
 <div class="container">
@@ -80,7 +80,7 @@
 </div>
 
 <!--personnel section-->
-<div class="container separator">
+<div class="container">
   <h3 class="center">Equipo</h3>
 </div>
 
