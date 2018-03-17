@@ -13,38 +13,40 @@
      <title>BLOG</title>
    </head>
 
-   <body class="purple lighten-4">
+   <body class="purple lighten-3">
 
      <header>
-       <nav class="purple">
+       <nav class="purple container">
            <div class="nav-wrapper">
-             <a href="#" id="logo" class="brand-logo hide-on-med-and-down">Logo</a>
+             <a href="#" id="logo" class="brand-logo hide-on-med-and-down">ESMA</a>
              <ul id="nav-mobile" class="right hide-on-med-and-down">
-               <li><a href="#" id="nav-item-1">Products</a></li>
-               <li><a href="#" id="nav-item-2">About</a></li>
-               <li><a href="#" id="nav-item-3">Log in</a></li>
-             </ul>
-               <!--menu-mobile-->
-             <ul class="right hide-on-large-only">
-               <li><a href="#" class="dropdown-button right purple darken-1"><i class="material-icons center">dehaze</i></a></li>
+               <li><a href="#" id="nav-item-1">Productos</a></li>
+               <li><a href="#" id="nav-item-2">Contacto</a></li>
+               <li><a href="#" id="nav-item-3">Ingresar</a></li>
              </ul>
            </div>
          </nav>
      </header>
 
+<!--video section-->
+<div class="container">
+  <div class="video-container">
+        <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0"></iframe>
+  </div>
+</div>
 
 <!--cards section-->
 <div class="container">
-  <div class="row">
+  <h3 class="center separator">Tal vez te interese...</h3>
+</div>
+
+<div class="container">
+  <div class="row" id="cards">
 
     <div class="col s12 m4">
       <div class="card small hoverable grey lighten-5 z-depth-1">
         <div class="card-image">
           <img src='./images/img-1.jpg'>
-          <span class="card-title">Card Title</span>
-        </div>
-        <div class="card-content">
-          <p>Blasid fudfaskjlf dsakpoidfj doasnfdskal fdosanodsia fndsoadifsa nfdsoa fdno</p>
         </div>
         <div class="card-action">
           <a href="#" class="waves-effect waves-light btn right purple darken-1">VER MAS</a>
@@ -56,10 +58,6 @@
       <div class="card small hoverable grey lighten-5 z-depth-1">
         <div class="card-image">
           <img src='./images/img-2.jpg'>
-          <span class="card-title">Card Title</span>
-        </div>
-        <div class="card-content">
-          <p>Blasid fudfaskjlf dsakpoidfj doasnfdskal fdosanodsia fndsoadifsa nfdsoa fdno</p>
         </div>
         <div class="card-action">
           <a href="#" class="waves-effect waves-light btn right purple darken-1">VER MAS</a>
@@ -71,10 +69,6 @@
       <div class="card small hoverable grey lighten-5 z-depth-1">
         <div class="card-image">
           <img src='./images/img-3.jpg'>
-          <span class="card-title">Card Title</span>
-        </div>
-        <div class="card-content">
-          <p>Blasid fudfaskjlf dsakpoidfj doasnfdskal fdosanodsia fndsoadifsa nfdsoa fdno</p>
         </div>
         <div class="card-action">
           <a href="#" class="waves-effect waves-light btn right purple darken-1">VER MAS</a>
@@ -86,12 +80,17 @@
 </div>
 
 <!--personnel section-->
+<div class="container separator">
+  <h3 class="center">Equipo</h3>
+</div>
+
+
   <div class="container">
     <div class="row">
 
       <div class="col s12 m6 l6">
         <div class="valign-wrapper">
-          <div class="card-panel hoverable grey lighten-5 z-depth-1">
+          <div class="card-panel hoverable pink z-depth-1">
             <div class="col s2">
               <img src="images/presidente.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
@@ -106,7 +105,7 @@
 
       <div class="col s12 m6 l6">
         <div class="valign-wrapper">
-          <div class="card-panel hoverable grey lighten-5 z-depth-1">
+          <div class="card-panel hoverable purple z-depth-1">
             <div class="col s10">
               <span class="black-text">
                 This is a square image. Add the "circle" class to it to make it appear circular.
@@ -121,7 +120,7 @@
 
       <div class="col s12 m6 l6">
         <div class="valign-wrapper">
-          <div class="card-panel hoverable grey lighten-5 z-depth-1">
+          <div class="card-panel hoverable indigo z-depth-1">
             <div class="col s2">
               <img src="images/presidente.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
@@ -136,7 +135,7 @@
 
       <div class="col s12 m6 l6">
         <div class="valign-wrapper">
-          <div class="card-panel hoverable grey lighten-5 z-depth-1">
+          <div class="card-panel hoverable orange z-depth-1">
             <div class="col s10">
               <span class="black-text">
                 This is a square image. Add the "circle" class to it to make it appear circular.

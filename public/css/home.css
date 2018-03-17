@@ -1,8 +1,3 @@
-.container {
-  padding-top: 3em;
-}
-
-
 #logo {
   padding-left: 0.8em;
   font-size: 2.5em;
@@ -18,6 +13,10 @@
 
 #nav-item-3 {
   font-size: 1.5em;
+}
+
+.separator{
+  padding-top: 0.5em;
 }
 
 /*# sourceMappingURL=home.css.map */
