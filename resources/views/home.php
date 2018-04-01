@@ -30,7 +30,7 @@
 
 <!--video section-->
 <div class="container">
-  <div class="video-container">
+  <div class="video-container z-depth-2">
         <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0"></iframe>
   </div>
 </div>
@@ -44,7 +44,7 @@
   <div class="row" id="cards">
 
     <div class="col s12 m4">
-      <div class="card small hoverable grey lighten-5 z-depth-1">
+      <div class="card small hoverable grey lighten-5 z-depth-1s">
         <div class="card-image">
           <img src='./images/img-1.jpg'>
         </div>

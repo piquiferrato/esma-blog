@@ -12,12 +12,6 @@
 */
 
 
-Route::get('/home', 'HomeController@home');
-Route::get('/', 'HomeController@welcome');
-Route::get('/signUp', 'UsersController@signUp');
+Route::get('home', 'HomeController@home');
 
-Route::group(['prefix' => 'admin'], function(){
-
-   Route::resource('users','UsersController');
-   
-});
+Route::get('signUp', 'UsersController@signUp');

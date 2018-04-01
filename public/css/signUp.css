@@ -1,0 +1,13 @@
+.container {
+  padding-top: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
+  vertical-align: middle;
+}
+.center-block {
+  padding-top: 10%;
+  justify-content: center;
+}
+.row {
+  text-align: center;
+}

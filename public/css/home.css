@@ -3,20 +3,13 @@
   font-size: 2.5em;
 }
 
-#nav-item-1 {
-  font-size: 1.5em;
-}
-
-#nav-item-2 {
-  font-size: 1.5em;
-}
-
-#nav-item-3 {
+#nav-item-1, #nav-item-2, #nav-item-3 {
   font-size: 1.5em;
 }
 
 .separator{
   padding-top: 1em;
 }
+
 
 /*# sourceMappingURL=home.css.map */
